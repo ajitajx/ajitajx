@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**ajitajx/ajitajx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=khushboogoel01" alt="khushboogoel01" /> </p>
 
 Here are some ideas to get you started:
 
