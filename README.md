@@ -9,7 +9,7 @@
 </a>
 <a href="https://github.com/Bhaviktutorials?tab=followers"><img src="https://img.shields.io/github/followers/Bhaviktutorials?label=Followers&style=social" alt="GitHub Badge"></a>
 
-- 🔭 𝗜'𝗺 𝗯𝘂𝗴 𝗯𝘂𝗻𝘁𝘆 𝗵𝘂𝗻𝘁𝗲𝗿 🕷🕸
+- 🔭 𝗜'𝗺 𝗯𝘂𝗴 𝗯𝘂𝗻𝘁𝘆 𝗵𝘂𝗻𝘁𝗲𝗿 🐞
 - 🌱 𝗜'𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗽𝗿𝗲𝗽𝗮𝗿𝗶𝗻𝗴 𝗳𝗼𝗿 𝗢𝗦𝗖𝗣 & 𝗥𝗘𝗗𝗛𝗔𝗧👣
 - 👯 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝘄𝗲𝗯 𝗱𝗲𝘃🕸
 - 🐍 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗯𝗮𝘀𝗵, 𝘀𝗵𝗲𝗹𝗹 𝗰𝗼𝗱𝗶𝗻𝗴 
