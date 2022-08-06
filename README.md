@@ -2,12 +2,11 @@
 𝗛𝗔𝗖𝗞𝗘𝗥 , 𝗗𝗔𝗥𝗞𝗪𝗘𝗕 𝗘𝗫𝗣𝗟𝗢𝗥𝗘𝗥 👾
  
 ![IMG_20220806_152354](https://user-images.githubusercontent.com/110689355/183243970-1a9039b7-34c3-4dc3-92b0-852f1c440349.png)
-
+<p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     
 <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
-<a href="https://github.com/Bhaviktutorials?tab=followers"><img src="https://img.shields.io/github/followers/Bhaviktutorials?label=Followers&style=social" alt="GitHub Badge"></a>
 
 - 🔭 𝗜'𝗺 𝗯𝘂𝗴 𝗯𝘂𝗻𝘁𝘆 𝗵𝘂𝗻𝘁𝗲𝗿 🐞
 - 🌱 𝗜'𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗽𝗿𝗲𝗽𝗮𝗿𝗶𝗻𝗴 𝗳𝗼𝗿 𝗢𝗦𝗖𝗣 & 𝗥𝗘𝗗𝗛𝗔𝗧👣
