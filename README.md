@@ -13,22 +13,22 @@
 - 👯 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝘄𝗲𝗯 𝗱𝗲𝘃🕸
 - 🐍 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗯𝗮𝘀𝗵, 𝘀𝗵𝗲𝗹𝗹 𝗰𝗼𝗱𝗶𝗻𝗴 
 - 🤧 𝗩𝗶𝗿𝘂𝘀 𝗰𝗿𝗲𝗮𝘁𝗶𝗼𝗻, 𝗗𝗗𝗢𝗦 ,𝗠𝗮𝗹𝘄𝗮𝗿𝗲 𝗱𝗲𝘃𝗹𝗼𝗽𝗺𝗲𝗻𝘁 
-- ✴️ 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗯𝗼𝘂𝘁 𝗖𝗜𝗖𝗔𝗗𝗔 𝟯𝟯𝟬𝟭📍
+- ✴️ 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗯𝗼𝘂𝘁 𝗚𝗼𝗼𝗴𝗹𝗲 𝗗𝗼𝗿𝗸𝗶𝗻𝗴📍
 - 🕷 𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗗𝗮𝗿𝗸𝘄𝗲𝗯 & 𝗗𝗲𝗲𝗽𝘄𝗲𝗯 🦇
 
-<p align="center">
-𝗝𝗢𝗜𝗡 𝗠𝗬 𝗚𝗥𝗢𝗨𝗣 👻
 
 <p align="center">
-<a href="https://t.me/oscp_osce_master"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+𝗠𝗬 𝗦𝗠𝗔𝗟𝗟 𝗙𝗜𝗡𝗗 
 
-
-
-
-
+     intitle:"index of" "*db.sh"
 
 
 ![20211018_095110](https://user-images.githubusercontent.com/92670074/137668952-1b03610c-f8a6-4eaa-9ac7-da8f4b059652.gif)
+<p align="center">
+𝗝𝗢𝗜𝗡 𝗠𝗬 𝗚𝗥𝗢𝗨𝗣
+
+<p align="center">
+<a href="https://t.me/oscp_osce_master"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 
 
 
