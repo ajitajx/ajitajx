@@ -1,6 +1,6 @@
 ![20211018_094327](https://user-images.githubusercontent.com/92670074/137668416-330fd806-ed2f-457d-b46e-e98d031c5267.gif)
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=Bhaviktutorials">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 
