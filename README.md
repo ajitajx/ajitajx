@@ -15,7 +15,8 @@
 - ✴️ 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗯𝗼𝘂𝘁 𝗖𝗜𝗖𝗔𝗗𝗔 𝟯𝟯𝟬𝟭📍
 - 🕷 𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗗𝗮𝗿𝗸𝘄𝗲𝗯 & 𝗗𝗲𝗲𝗽𝘄𝗲𝗯 🦇
 
-
+<p align="center">
+𝗝𝗢𝗜𝗡 𝗠𝗬 𝗚𝗥𝗢𝗨𝗣 👻
 
 <p align="center">
 <a href="https://t.me/oscp_osce_master"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
