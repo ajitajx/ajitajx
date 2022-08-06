@@ -1,5 +1,5 @@
 ![20211018_094327](https://user-images.githubusercontent.com/92670074/137668416-330fd806-ed2f-457d-b46e-e98d031c5267.gif)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+<img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
 𝙃𝘼𝘾𝙆𝙀𝙍,𝘿𝘼𝙍𝙆𝙒𝙀𝘽 𝙀𝙓𝙋𝙇𝙊𝙍𝙀𝙍👾
 - 🔭 𝙄'𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙖𝙨 𝙗𝙪𝙜 𝙗𝙪𝙣𝙩𝙮 𝙝𝙪𝙣𝙩𝙚𝙧🕷🕸🐞
 - 🌱 𝙄'𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙥𝙧𝙚𝙥𝙖𝙧𝙞𝙣𝙜 𝙛𝙤𝙧 𝙊𝙎𝘾𝙋🐙
