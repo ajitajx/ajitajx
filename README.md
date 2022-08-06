@@ -1,4 +1,4 @@
-![20211018_094327](https://user-images.githubusercontent.com/92670074/137668416-330fd806-ed2f-457d-b46e-e98d031c5267.gif)
+![20211018_094327](https://user-images.githubusercontent.com/110689355/183239735-9db4331b-f050-49c3-819b-42f918994ab4.jpg)
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     
 <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
