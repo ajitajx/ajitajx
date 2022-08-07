@@ -20,8 +20,11 @@
 <p align="center">
 𝗠𝗬 𝗦𝗠𝗔𝗟𝗟 𝗙𝗜𝗡𝗗 ❔
 
-     intitle:"index of" "*db.sh"
-
+     intitle:"index of /" "sqlite.db"
+     intitle:"index of" instagram-api
+     intitle:"index of" "files.pl"
+     site:com.* intitle:"index of" *.admin.password
+     
 
 ![20211018_095110](https://user-images.githubusercontent.com/92670074/137668952-1b03610c-f8a6-4eaa-9ac7-da8f4b059652.gif)
 <p align="center">
