@@ -26,6 +26,7 @@
      intitle:"index of /" "sqlite.db"
      intitle:"index of" instagram-api
      intitle:"index of" "files.pl"
+     index of" database.sql.zip
      site:com.* intitle:"index of" *.admin.password
      intitle:"System Administration" inurl:top.cgi
      inurl:"/index.php?qa=login"
