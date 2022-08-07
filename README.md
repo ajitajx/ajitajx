@@ -27,6 +27,9 @@
      intitle:"index of" instagram-api
      intitle:"index of" "files.pl"
      site:com.* intitle:"index of" *.admin.password
+     intitle:"System Administration" inurl:top.cgi
+     inurl:"/index.php?qa=login"
+     allintext:wp-includes/rest-api
      
 
 ![20211018_095110](https://user-images.githubusercontent.com/92670074/137668952-1b03610c-f8a6-4eaa-9ac7-da8f4b059652.gif)
