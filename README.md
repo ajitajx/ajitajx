@@ -39,6 +39,7 @@
 
 <p align="center">
 <a href="https://t.me/oscp_osce_master"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-
+<p align="center">
+𝗣𝗘𝗢𝗣𝗟𝗘 𝗦𝗔𝗬'𝗦 𝗜 𝗔𝗠 𝗡𝗢𝗧 𝗛𝗔𝗖𝗞𝗘𝗥 😳
 
 
